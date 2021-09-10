@@ -1,16 +1,35 @@
-# day31
+## Flutter Job List Application UI - Day 31
 
-A new Flutter project.
+```dart
+class Afgprogrammer extends Flutter100DaysOfCode {
+  video() {
+    return {
+      "title": "Flutter Job List Application UI",
+      "description": "Let’s make a Job List App UI.",
+      "day": 31,
+    }
+  }
+}
+```
 
-## Getting Started
+## Previous Designs
+[Checkout my Youtube channel](https://youtube.com/afgprogrammer)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshot
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/screenshots/job-list.png" />
+
+## Links
+
+* [Website](https://afgprogrammer.com)
+* [Youtube channel](https://youtube.com/afgprogrammer)
+* [Twitter](https://twitter.com/afgprogrammer)
+* [Instagram](https://instagram.com/afgprogrammer)
